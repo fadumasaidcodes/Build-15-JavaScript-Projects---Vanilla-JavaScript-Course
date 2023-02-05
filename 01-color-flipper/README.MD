@@ -36,9 +36,6 @@
 - Math.random()
 - array.length
 
-##### Contributing
-- If you would like to contribute to the development of Color Flipper, please feel free to submit a pull request with your changes.
-
 ### Authors
 - Faduma Ibrahim 
 #### License
