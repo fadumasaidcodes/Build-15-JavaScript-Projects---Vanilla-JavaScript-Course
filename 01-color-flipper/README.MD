@@ -21,14 +21,14 @@
 ### To use Color Flipper, simply click the "Flip Color" button to cycle through different color options. You can also input a specific color code in the input field and press "Go" to directly switch to that color.
 
 ### Built With
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ##### Contributing
-If you would like to contribute to the development of Color Flipper, please feel free to submit a pull request with your changes.
+- If you would like to contribute to the development of Color Flipper, please feel free to submit a pull request with your changes.
 
 ### Authors
-Faduma Ibrahim 
+- Faduma Ibrahim 
 #### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+- This project is licensed under the MIT License - see the LICENSE.md file for details.
