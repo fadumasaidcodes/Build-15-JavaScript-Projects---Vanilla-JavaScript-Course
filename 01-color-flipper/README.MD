@@ -16,8 +16,9 @@ Or, if you prefer to run the application locally:
 
 Clone the repository:
 
-### Usage
-To use Color Flipper, simply click the "Flip Color" button to cycle through different color options. You can also input a specific color code in the input field and press "Go" to directly switch to that color.
+### Usage.
+
+### To use Color Flipper, simply click the "Flip Color" button to cycle through different color options. You can also input a specific color code in the input field and press "Go" to directly switch to that color.
 
 Built With
 HTML
