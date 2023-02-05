@@ -24,6 +24,16 @@
 - HTML
 - CSS
 - JavaScript
+#### Key concepts covered:
+
+- arrays
+- document.getElementById()
+- document.querySelector()
+- addEventListener()
+- document.body.style.backgroundColor
+- Math.floor()
+- Math.random()
+- array.length
 
 ##### Contributing
 - If you would like to contribute to the development of Color Flipper, please feel free to submit a pull request with your changes.
