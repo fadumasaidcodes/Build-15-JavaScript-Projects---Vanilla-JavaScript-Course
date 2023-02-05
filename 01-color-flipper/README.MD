@@ -2,10 +2,10 @@
 
 -   A web application that allows users to easily flip between different colors.
 
-### Getting Started
+#### Getting Started
 -  These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Prerequisites
+#### Prerequisites
 -  A web browser
 - Visual studio code 
 
@@ -16,11 +16,11 @@
 
 - Clone the repository:
 
-### Usage.
+#### Usage.
 
 - To use Color Flipper, simply click the "Flip Color" button to cycle through different color options. You can also input a specific color code in the input field and press "Go" to directly switch to that color.
 
-### Built With
+#### Built With
 - HTML
 - CSS
 - JavaScript
