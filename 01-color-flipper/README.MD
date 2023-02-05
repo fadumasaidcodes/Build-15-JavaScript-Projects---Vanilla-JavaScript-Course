@@ -1,6 +1,6 @@
 ## Color Flipper
 
-####  A web application that allows users to easily flip between different colors.
+-   A web application that allows users to easily flip between different colors.
 
 ### Getting Started
 ### These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
