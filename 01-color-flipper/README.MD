@@ -24,6 +24,7 @@
 - HTML
 - CSS
 - JavaScript
+
 #### Key concepts covered:
 
 - arrays
